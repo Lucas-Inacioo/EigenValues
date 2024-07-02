@@ -1,0 +1,5 @@
+﻿  MetodoPotencias.cpp
+C:\Users\lucas\OneDrive\Desktop\Code\USP\CalcNumerico\MetodoPotencias\MetodoPotencias\MetodoPotencias.cpp(74,14): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\lucas\OneDrive\Desktop\Code\USP\CalcNumerico\MetodoPotencias\MetodoPotencias\MetodoPotencias.cpp(97,14): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\lucas\OneDrive\Desktop\Code\USP\CalcNumerico\MetodoPotencias\MetodoPotencias\MetodoPotencias.cpp(153,11): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+  MetodoPotencias.vcxproj -> C:\Users\lucas\OneDrive\Desktop\Code\USP\CalcNumerico\MetodoPotencias\x64\Debug\MetodoPotencias.exe
